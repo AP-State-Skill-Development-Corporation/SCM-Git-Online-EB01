@@ -17,17 +17,23 @@ writing is easy by using ReadTheDocs and Sphinx tools.
 
 ## Duration:
 
-- 2 Days or 12 Hours.
+- 6 Days or 12 Hours.
 
 ## Content:
 
 - **Introduction To Source Code Management**
 - **Git Basics**
+
+ <img src = "https://git-scm.com/images/logo@2x.png" align = "right">
+
   - Initializing repositories
   - Accessing Existing Repositories
   - Adding / Removing files from Staging area
   - Committing the changes to repository
   - Undoing the commits that are made
+  
+ <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" align = "right" width="300">
+
 - **Remote**
   - Creating an Account on GitHub
   - Create a remote repository
@@ -39,16 +45,24 @@ writing is easy by using ReadTheDocs and Sphinx tools.
   - Creating Ordered / Unordered lists-
   - Adding videos/pdfs to the markdown file
   - Adding links in the markdown file.
+
+<img src="https://res.cloudinary.com/snyk/images/f_auto,q_auto/w_1240,h_384,c_scale/v1/wordpress-sync/image1-11/image1-11-1240x384.png" align = "right" width="310" >
+
 - **Git Branching**
   - Uses of Branching
   - Create Branch
   - Switch to new Branch and back
   - Merge the new branch to Master
   - How to send the branch code to new branch on remote
+
+<img src="https://miro.medium.com/max/1200/1*_M3PH26KMfxZ2hBpC2I3_A.jpeg" align = "right" width="400" >
+
+
 - **Pull Requests**
   - Collaborate on existing projects
   - Collaborate on open source projects
   - Sending pull requests and handling them
+  - 
 - **GitHub Pages**
   - Creation of personal portfolio site
   - Creating a GitHub Page using Markdown and Jekyll themes for
@@ -62,18 +76,18 @@ writing is easy by using ReadTheDocs and Sphinx tools.
 The objective of this course is
 
 - To impart knowledge on version control and source management to the students
-  & Faculty of engineering colleges across the state of Andhra Pradesh as Source
+ of engineering colleges across the state of Andhra Pradesh as Source
   Code Management and Version Control are very much important in the life of a
   software developer.
 - To impart knowledge in using ReadTheDocs and Sphinx tools to write software
   documentation.
-- To make the students and faculty develop their portfolio and make it available for
+- To make the students develop their portfolio and make it available for
   the public to visit their portfolio using GitHubPages.
-- To make the students & Faculty be able to write and share notes on the regular
+- To make the students be able to write and share notes on the regular
   subjects to their peers and audience without hassle using ReadTheDocs and
   Sphinx.
 
 ## Entry Requirements (Pre-requisites):
 
-- Students & Faculty must have a basic understanding of computers and programming.
-- Students & Faculty must have the basic understanding of Linux commands.
+- Students must have a basic understanding of computers and programming.
+- Students must have the basic understanding of Linux commands.
