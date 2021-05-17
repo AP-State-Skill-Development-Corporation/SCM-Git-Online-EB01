@@ -18,3 +18,22 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Make sure roll number should match with the registered roll number
 5. Minimum **`100`** minutes should attend in **`120`** minutes session with same login format
 -------------
+
+
+## Day01  Introduction to Source Code Management (17-May-2021)
+### Discussed Concepts:
+
+1. Introduction to Source Code Management
+2. History of Git & GitHub
+3. Version Control System and Types
+4. Git Terminology
+    - Repository
+    - Branch
+    - Commit
+    - Master Branch
+5. Project Workflow
+7. Download & Install Git
+
+### [[Introduction Slides]](Day01_Introduction.pdf), [[Day01 Recording Link]](https://transcripts.gotomeeting.com/#/s/0c5995e0323d5a5a44f3dab6495a1f07a3853fc98af2253a152fb8cd33d12910)
+
+************
