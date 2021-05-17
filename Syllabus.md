@@ -57,12 +57,10 @@ writing is easy by using ReadTheDocs and Sphinx tools.
 
 <img src="https://miro.medium.com/max/1200/1*_M3PH26KMfxZ2hBpC2I3_A.jpeg" align = "right" width="400" >
 
-
 - **Pull Requests**
   - Collaborate on existing projects
   - Collaborate on open source projects
   - Sending pull requests and handling them
-  - 
 - **GitHub Pages**
   - Creation of personal portfolio site
   - Creating a GitHub Page using Markdown and Jekyll themes for
