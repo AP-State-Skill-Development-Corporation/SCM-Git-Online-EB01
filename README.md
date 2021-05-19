@@ -35,6 +35,14 @@ Everyone should compulsory follow the below instruction in order to get the atte
 7. Download & Install Git
 
 ### [[Introduction Slides]](Day01_Introduction.pdf), [[Day01 Recording Link]](https://transcripts.gotomeeting.com/#/s/0c5995e0323d5a5a44f3dab6495a1f07a3853fc98af2253a152fb8cd33d12910)
-### [[Day02 Recording Link]](https://transcripts.gotomeeting.com/#/s/44f19df55685d4f6736473ad4de02721b5727a126851ef33178d497998ccc2a2)
+
+## Day02 (18-May-2021)
+### Discussed Concepts:
+
+- Git and GitHub Account Setup
+    - Git Profile Update
+    - Creating, Commiting and Updating of Remote Repository
+- Linux Commands
+### [[Git Bash Commands]](Day2_Git_Bash_Commands.md), [[Day02 Recording Link]](https://transcripts.gotomeeting.com/#/s/44f19df55685d4f6736473ad4de02721b5727a126851ef33178d497998ccc2a2)
 
 ************
