@@ -52,3 +52,12 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### [[Git Bash Commands]](Day2_Git_Bash_Commands.md), [[Day02 Recording Link]](https://transcripts.gotomeeting.com/#/s/44f19df55685d4f6736473ad4de02721b5727a126851ef33178d497998ccc2a2)
 
 ************
+## Day03 (19-May-2021)
+### Discussed Concepts:
+
+1. README for remote repository
+2. Choosing the templete for `.gitignore`
+3. Choosing license for `project`
+4. Markdown syntax for documentation
+
+### [[Markdown Syntax for Documentation]](Day2_Git_Bash_Commands.md), [[Day02 Recording Link]](https://transcripts.gotomeeting.com/#/s/365c386ecdc31794b4f6aabdee702473f4a91c28ca6487d93ca196c09be95149)
