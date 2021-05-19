@@ -60,4 +60,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 3. Choosing license for `project`
 4. Markdown syntax for documentation
 
-### [[Markdown Syntax for Documentation]](Day2_Git_Bash_Commands.md), [[Day02 Recording Link]](https://transcripts.gotomeeting.com/#/s/365c386ecdc31794b4f6aabdee702473f4a91c28ca6487d93ca196c09be95149)
+### [[Markdown Syntax for Documentation]](Day3_md_syntax_for_documentation.md), [[Day02 Recording Link]](https://transcripts.gotomeeting.com/#/s/365c386ecdc31794b4f6aabdee702473f4a91c28ca6487d93ca196c09be95149)
