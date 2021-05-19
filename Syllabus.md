@@ -22,9 +22,11 @@ writing is easy by using ReadTheDocs and Sphinx tools.
 ## Content:
 
 - **Introduction To Source Code Management**
-- **Git Basics**
 
  <img src = "https://git-scm.com/images/logo@2x.png" align = "right">
+
+- **Git Basics**
+
 
   - Initializing repositories
   - Accessing Existing Repositories
