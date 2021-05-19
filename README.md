@@ -6,7 +6,11 @@ Welcome to APSSDC **Source Code Management using Git and GitHub** Online Trainin
 
 #### Meeting Link -> [[Click Here to Join]](https://global.gotomeeting.com/install/813291909) or Meeting Id -> [[813-291-909]](https://www.gotomeeting.com/en-in/meeting/join-meeting)
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
+<!---
 #### Verify your details [[Here]](https://docs.google.com/spreadsheets/d/15SvzgZoFkJfWGlTMVoqjWd-1P231WUP4BzLYHCuK45M/edit?usp=sharing) if any changes update in modificaations column same will be printed on certificate
+
+-->
+
 -------
 ### Instructions for attendance
 
@@ -35,6 +39,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 7. Download & Install Git
 
 ### [[Introduction Slides]](Day01_Introduction.pdf), [[Day01 Recording Link]](https://transcripts.gotomeeting.com/#/s/0c5995e0323d5a5a44f3dab6495a1f07a3853fc98af2253a152fb8cd33d12910)
+
+--------------
 
 ## Day02 (18-May-2021)
 ### Discussed Concepts:
