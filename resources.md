@@ -11,3 +11,11 @@
 ### Day02 Resources
 
 1. **[Bash Scriping Cheat Sheet](https://devhints.io/bash)**
+
+### Day03 Resources
+
+1. **[Markdown Guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)**
+2. **[Doc Formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)**
+3. **[.gitignore Templetes](https://www.toptal.com/developers/gitignore)**
+4. **[How to choose a license](https://choosealicense.com/)**
+5. **[Sample Project Document](https://github.com/thoughtbot/factory_bot#readme)**
