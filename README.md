@@ -61,3 +61,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Markdown syntax for documentation
 
 ### [[Markdown Syntax for Documentation]](Day3_md_syntax_for_documentation.md), [[Day03 Recording Link]](https://transcripts.gotomeeting.com/#/s/365c386ecdc31794b4f6aabdee702473f4a91c28ca6487d93ca196c09be95149)
+## Day04 (20-May-2021)
+### Discussed Concepts:
+
+### [[Markdown Syntax for Documentation]](Day3_md_syntax_for_documentation.md), [[Day04 Recording Link]](https://transcripts.gotomeeting.com/#/s/9968b1c30fcc891ea1bf88eb0e79d75803f9c5d12f48ff18c5da5a55dca690e2)
