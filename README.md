@@ -66,13 +66,22 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 1.git clone
 
-2.git add  file.txt
-3. git status
-4. git commit -am "mess"
-5. git git log
-6. git commit -am --online
-7. git add remote
-8. git pull 
-9. git push 
+2.touch  file.txt
+
+3.git add --all
+
+4.git status 
+
+5.git commit -am "mess"
+
+6.git git log
+
+7.git commit -am --online
+
+8.git add remote
+
+9.git pull 
+
+10.git push 
 
 ### [[Markdown Syntax for Documentation]](Day3_md_syntax_for_documentation.md), [[Day04 Recording Link]](https://transcripts.gotomeeting.com/#/s/9968b1c30fcc891ea1bf88eb0e79d75803f9c5d12f48ff18c5da5a55dca690e2)
