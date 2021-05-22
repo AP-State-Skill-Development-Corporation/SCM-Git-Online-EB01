@@ -1,0 +1,36 @@
+Day-3 & 4 Commands:
+-------------------
+
+Initial Registering Commands:
+-----------------------------
+- git config --global user.name "Your_Name": This is for registering your name initial time
+- git config --global user.email "Your_Email": This is for registering your email initial time
+
+Initialise Git in Local System for Push or Pull:
+------------------------------------------------
+1. git init: For initialise the git for tracking and version control purpose
+2. git add File_Names(f1,f2,...) : For adding files into staging area
+2. git add .
+3. git commit -m "Type_Message_Here" : For moving files into tracking Area
+4. git remote add Remote_Name Branch_Name : For Creating remote b/w local Git and Github Server
+5(a). git push Remote_Name Branch_Name : For adding files from local to Github Server
+5(b). git pull Remote_Name Branch_Name : For getting files from Github Server to local
+
+Other Commands:
+--------------
+- git status : For checking our file location status
+- git diff : Identifing modification before and after updating the file
+- git checkout key: Moving one version to another version
+- git config --global --get-all user.name
+- git config --global --get-all user.email
+- git log
+- git log --oneline
+
+
+Downloading Total Project into Local System:
+--------------------------------------------
+- git clone "Url_From_Github"
+- git clone "Url_From_Github" "User_Required_ProjectName"
+
+
+  
