@@ -85,4 +85,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 10.git push 
 
 ### [[Markdown Syntax for Documentation]](Day3_md_syntax_for_documentation.md), [[Day04 Recording Link]](https://transcripts.gotomeeting.com/#/s/9968b1c30fcc891ea1bf88eb0e79d75803f9c5d12f48ff18c5da5a55dca690e2)
-[[Day05 Recording Link]](https://transcripts.gotomeeting.com/#/s/5af561091f4f12bc474af7cc9cf8c3cd06e54d93163e459734e5839e562e44b0)
+## --> [[Day05 Recording Link]](https://transcripts.gotomeeting.com/#/s/5af561091f4f12bc474af7cc9cf8c3cd06e54d93163e459734e5839e562e44b0)
