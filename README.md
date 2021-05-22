@@ -84,7 +84,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 -------------------
 
-## Day06 (20-May-2021)
+## Day06 (22-May-2021)
 ### Discussed Concepts:
 
 1. GitHub Pages
@@ -95,7 +95,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - Pull Request
     - Merge
 
-### [[GitHub_Pages_Open_Source_Contribution]](Day6_GitHub_Pages_&_OSS.md), [[Day03 Recording Link]](https://transcripts.gotomeeting.com/#/s/5af561091f4f12bc474af7cc9cf8c3cd06e54d93163e459734e5839e562e44b0)
+### [[GitHub_Pages_Open_Source_Contribution]](Day6_GitHub_Pages_&_OSS.md), [[Day06 Recording Link]](https://transcripts.gotomeeting.com/#/s/5af561091f4f12bc474af7cc9cf8c3cd06e54d93163e459734e5839e562e44b0)
 
 --------------
 
